@@ -48,7 +48,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 I am currently writing my engineering thesis under the supervision of prof. dr hab. inż. Bożena Kostek, focusing on:
 > **"Analysis and comparison of applications generating musical pieces using artificial intelligence"**
 
-My research involves exploring modern AI technologies like **LLMs** and **GANs** in the context of music generation.
+My research involves exploring modern AI technologies in the context of music generation.
 
 ---
 
