@@ -21,7 +21,7 @@
 
 <p align="left">
   <strong>Languages:</strong> Python | C/C++ | Java | SQL | TypeScript | C# <br>
-  <strong>AI / Data Science:</strong> Pandas | NumPy <br>
+  <strong>AI / Data Science:</strong> Pandas | NumPy | N8N <br>
   <strong>Backend:</strong> Node.js | Django | Express | REST API | .NET <br>
   <strong>Frontend:</strong> React | Angular | HTML | CSS <br>
   <strong>Tools & Technologies:</strong> Docker | Git | Linux | Jira | Maven | Selenium
